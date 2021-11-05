@@ -1,0 +1,12 @@
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\bin\Debug\GPS_TK103Simulador.exe.config
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\bin\Debug\GPS_TK103Simulador.exe.manifest
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\bin\Debug\GPS_TK103Simulador.application
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\bin\Debug\GPS_TK103Simulador.exe
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\bin\Debug\GPS_TK103Simulador.pdb
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\obj\Debug\GPS_TK103Simulador.frmGPS_TK103Simulador.resources
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\obj\Debug\GPS_TK103Simulador.Properties.Resources.resources
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\obj\Debug\GPS_TK103Simulador.csproj.GenerateResource.Cache
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\obj\Debug\GPS_TK103Simulador.exe.manifest
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\obj\Debug\GPS_TK103Simulador.application
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\obj\Debug\GPS_TK103Simulador.exe
+C:\!Works\C#\GPS_TK103Simulador\GPS_TK103Simulador\obj\Debug\GPS_TK103Simulador.pdb
